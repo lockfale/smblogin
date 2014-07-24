@@ -3,10 +3,10 @@ smblogin
 
 powershell for SMB login spraying
 
-
-- mod location of host addresses/domain names 
-- mod username/password
-- firin mah lazers.
+usage:
+- mod location of host addresses/domain names  in script
+- mod username/password in script
+- firin mah lazers. == PS c:\>.\smblogin.ps1
 
 
 
